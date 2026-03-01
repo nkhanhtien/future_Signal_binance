@@ -22,5 +22,19 @@ Bot tự động quét thị trường tiền mã hóa trên Binance Futures, th
 
 **Bước 2:** Cài đặt các thư viện Python cần thiết bằng `pip`:
 
+
+## 📦 Cài đặt & Khởi chạy (Setup & Run)
+
+Khuyến nghị sử dụng môi trường ảo (Virtual Environment) để cài đặt các thư viện cho dự án này, giúp tránh xung đột với các package khác trên hệ thống.
+
+**Bước 1: Di chuyển vào thư mục dự án**
 ```bash
+cd future_Signal_binance
+python3 -m venv venv
+source venv/bin/activate
 pip install pandas ta python-binance python-telegram-bot
+python deepseed_future.py
+
+Cách thoát môi trường ảo (Khi không dùng nữa):
+Gõ lệnh sau vào terminal:
+deactivate

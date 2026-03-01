@@ -1,0 +1,12 @@
+# Bỏ qua thư mục môi trường ảo
+venv/
+
+# Bỏ qua các file log
+*.log
+
+# Bỏ qua cache của Python
+__pycache__/
+*.pyc
+
+# Bỏ qua file ẩn của macOS
+.DS_Store
