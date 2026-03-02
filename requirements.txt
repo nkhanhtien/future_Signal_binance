@@ -1,0 +1,5 @@
+pandas>=2.0.0
+numpy>=1.24.0
+ta>=0.11.0
+python-binance>=1.0.19
+python-telegram-bot>=20.0
