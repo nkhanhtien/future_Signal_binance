@@ -514,10 +514,10 @@ class JapaneseCandlestickPatterns:
 # =============================================================================
 # CONFIGURATION
 # =============================================================================
-BINANCE_API_KEY = "JZdDjf3jXexFotRKImZanW3MBWc940lDg05bjRVhPNVKGr9xpOHhNMuAcQ7d6gJp"
-BINANCE_SECRET = "aps8ibon7fDxQmO1W1fRzxypj7UDGqCtwigx5JhqakEWJ9fWUSkL23uWEGFWMH68"
+BINANCE_API_KEY = "YOUR_BINANCE_KEY"
+BINANCE_SECRET = "YOUR_BINANCE_SECRET"
 
-TELEGRAM_TOKEN = "8691726885:AAHnlSv75UUT-heJ_7r_IBeXQvZrWKqKai4"
+TELEGRAM_TOKEN = "YOUR_TELEGRAM_BOT_TOKEN"
 
 # ─────────────────────────────────────────────────────────────────────────────
 # TIMEFRAMES
