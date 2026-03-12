@@ -1,0 +1,18 @@
+{
+  "6844103069": {
+    "username": null,
+    "first_name": "Tien",
+    "joined_at": "2026-03-11T22:32:49.927005",
+    "last_active": "2026-03-12T06:54:07.401336",
+    "active": true,
+    "preferences": {
+      "receive_signals": true,
+      "receive_updates": true,
+      "min_strength": 3
+    },
+    "stats": {
+      "signals_received": 117,
+      "last_signal_time": "2026-03-12T06:55:22.670832"
+    }
+  }
+}
